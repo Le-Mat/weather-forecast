@@ -26,7 +26,7 @@ Python, PyTorch, Pandas, Scikit-learn (StandardScaler),
 FastAPI, Docker
 
 ## Структура проекта
-
+```
 weather_forecast/
 ├── data/              # датасет (не в репозитории)
 ├── src/
@@ -37,7 +37,7 @@ weather_forecast/
 │   └── main.py          # FastAPI сервис
 ├── Dockerfile
 └── requirements.txt
-
+```
 ## Как запустить
 
 ### Локально
