@@ -5,3 +5,6 @@ __pycache__/
 data/
 venv/
 .env
+model.pth
+scaler.pkl
+*.png
